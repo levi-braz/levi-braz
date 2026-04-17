@@ -5,9 +5,7 @@
   
 
 - 🚀 I’m currently working on [Facilite S/A](https://www.facilite.co)  
-  
-
-- 💻 Preparing for the AWS Certified Developer exam.  
+ 
   
 
 <br/>  
